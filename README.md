@@ -28,8 +28,8 @@ A **basic chain** connecting one input → one prompt → one model → one outp
 Used when you just want a **direct LLM response** from a single prompt.
 
 <p align="center">
-  <img src="https://github.com/yourusername/langchain-chains-demo/blob/main/SimpleChain_1.png" width="350" />
-  <img src="https://github.com/yourusername/langchain-chains-demo/blob/main/SimpleChain_2.png" width="350" />
+  <img src="https://github.com/Parth-Mahadik-1/langchain-chains/blob/main/screenshots/chain%20ss/simple.png" width="550" />
+  <img src="https://github.com/Parth-Mahadik-1/langchain-chains/blob/main/screenshots/chain%20ss/simmple%20chain%20dia.png" width="350" />
 </p>
 
 ---
@@ -39,8 +39,8 @@ A **multi-step chain** where the output of one step feeds into the next.
 Ideal for workflows like **rephrasing → answering → summarizing**.
 
 <p align="center">
-  <img src="https://github.com/yourusername/langchain-chains-demo/blob/main/SequentialChain_1.png" width="350" />
-  <img src="https://github.com/yourusername/langchain-chains-demo/blob/main/SequentialChain_2.png" width="350" />
+  <img src="https://github.com/Parth-Mahadik-1/langchain-chains/blob/main/screenshots/chain%20ss/sequential.png" width="550" />
+  <img src="https://github.com/Parth-Mahadik-1/langchain-chains/blob/main/screenshots/chain%20ss/sequential%20dia.png" width="350" />
 </p>
 
 ---
@@ -50,8 +50,8 @@ Runs **multiple chains at the same time**, each performing a unique subtask.
 Best for **multi-output** processing like generating **keywords, summaries, and insights simultaneously**.
 
 <p align="center">
-  <img src="https://github.com/yourusername/langchain-chains-demo/blob/main/ParallelChain_1.png" width="350" />
-  <img src="https://github.com/yourusername/langchain-chains-demo/blob/main/ParallelChain_2.png" width="350" />
+  <img src="https://github.com/Parth-Mahadik-1/langchain-chains/blob/main/screenshots/chain%20ss/parallel.png" width="550" />
+  <img src="https://github.com/Parth-Mahadik-1/langchain-chains/blob/main/screenshots/chain%20ss/parallel%20dia.png" width="350" />
 </p>
 
 ---
@@ -61,8 +61,8 @@ Executes **different chains based on logical conditions or inputs**.
 Useful when you want **decision-based task routing**, e.g. translation vs. question answering.
 
 <p align="center">
-  <img src="https://github.com/yourusername/langchain-chains-demo/blob/main/ConditionalChain_1.png" width="350" />
-  <img src="https://github.com/yourusername/langchain-chains-demo/blob/main/ConditionalChain_2.png" width="350" />
+  <img src="https://github.com/Parth-Mahadik-1/langchain-chains/blob/main/screenshots/chain%20ss/conditional.png" width="550" />
+  <img src="https://github.com/Parth-Mahadik-1/langchain-chains/blob/main/screenshots/chain%20ss/conditional%20dia.png" width="350" />
 </p>
 
 ---
